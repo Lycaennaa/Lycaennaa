@@ -13,6 +13,7 @@
 ## Browser Extensions
 
 - [TwitchClipDownloader](https://github.com/Lycaennaa/TwitchClipDownloader) — A Chromium extension for downloading Twitch clips in bulk. `JavaScript`
+- [BrowserTabExport](https://github.com/Lycaennaa/BrowserTabExport) — A Chromium extension for exporting current open tabs to a .txt. `JavaScript`
 
 ## Android Applications
 
